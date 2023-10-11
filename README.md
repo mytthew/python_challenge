@@ -1,4 +1,4 @@
-**Before You Begin**
+**Before You Begin**:
 Before starting the assignment, be sure to complete the following steps:
 
 Create a new repository for this project called python-challenge. Do not add this homework assignment to an existing repository.
@@ -17,7 +17,7 @@ An analysis folder that contains your text file that has the results from your a
 
 Push these changes to GitHub or GitLab.
 
-**PyBank Instructions**
+**PyBank Instructions**:
 In this Challenge, you are tasked with creating a Python script to analyze the financial records of your company. You will be given a financial dataset called budget_data.csv. The dataset is composed of two columns: "Date" and "Profit/Losses".
 
 Your task is to create a Python script that analyzes the records to calculate each of the following values:
@@ -34,7 +34,7 @@ The greatest decrease in profits (date and amount) over the entire period
 
 In addition, your final script should both print the analysis to the terminal and export a text file with the results.
 
-**PyPoll Instructions**
+**PyPoll Instructions**:
 In this Challenge, you are tasked with helping a small, rural town modernize its vote-counting process.
 
 You will be given a set of poll data called election_data.csv. The dataset is composed of three columns: "Voter ID", "County", and "Candidate". Your task is to create a Python script that analyzes the votes and calculates each of the following values:
@@ -48,9 +48,7 @@ The percentage of votes each candidate won
 The total number of votes each candidate won
 
 The winner of the election based on popular vote
--------------------------
-Winner: Diana DeGette
--------------------------
+
 In addition, your final script should both print the analysis to the terminal and export a text file with the results.
 
 Always commit your work and back it up with pushes to GitHub or GitLab. You don't want to lose hours of your hard work! Also make sure that your repo has a detailed README.md file.
